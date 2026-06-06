@@ -1,8 +1,8 @@
 # Contribution #1: Annotations Block Stacked Bar Chart
 
-**Contribution Number:** 1 
-**Student:** Rabuma Abraham Bekele  
-**Issue:** https://github.com/PostHog/posthog/issues/40624
+**Contribution Number:** 1<br>
+**Student:** Rabuma Abraham Bekele<br> 
+**Issue:** https://github.com/PostHog/posthog/issues/40624<br>
 **Status:** Phase I Complete
 
 ---
