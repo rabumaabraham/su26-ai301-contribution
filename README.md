@@ -1,15 +1,17 @@
-# Contribution [#]: [Issue Title]
+# Contribution #1: Annotations Block Stacked Bar Chart
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1 
+**Student:** Rabuma Abraham Bekele  
+**Issue:** https://github.com/PostHog/posthog/issues/40624
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it affects how users interact with data visualizations in PostHog. The bug prevents users from clicking smaller sections of a stacked bar chart due to an oversized annotation hitbox, which can make the chart difficult to use.
+
+I am interested in this issue because it will give me experience working with a large open-source codebase and help me improve my debugging and problem-solving skills. It also seems like a well-defined issue with a clear goal and impact on the user experience.
 
 ---
 
@@ -17,7 +19,7 @@
 
 ### Problem Description
 
-[In your own words, what's broken or missing?]
+The annotations displayed on a stacked bar chart have a hitbox that is larger than expected. Because of this, annotations overlap portions of the chart and prevent users from clicking smaller stacked bars located near the bottom of the graph.
 
 ### Expected Behavior
 
